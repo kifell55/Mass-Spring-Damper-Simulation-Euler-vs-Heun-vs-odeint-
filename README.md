@@ -1,6 +1,6 @@
 # Mass-Spring-Damper-Simulation-Euler-vs-Heun-vs-odeint-
 Python simulation of a coupled mass–spring–damper system under an impulse input, comparing Euler and Heun (RK2) methods against odeint, with damping-ratio estimation and error analysis.
-This repository contains a Python script that numerically simulates a coupled mechanical mass–spring–damper system from Coursework 1.
+This repository contains a Python script that numerically simulates a coupled mechanical mass–spring–damper system.
 The system is excited by a rectangular, unit-impulse-like input force F2(t) (1 second duration), and the resulting displacement response p2(t) is computed and analysed.
 
 Implemented Features
